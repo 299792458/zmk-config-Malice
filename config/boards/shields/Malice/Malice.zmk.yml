@@ -5,6 +5,6 @@ type: shield
 requires:
   - [nice_nano_v2]
 exposes:
-  -GPIO
+  - [GPIO]
 features:
   - keys
