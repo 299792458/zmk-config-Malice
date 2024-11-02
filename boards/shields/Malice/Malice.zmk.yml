@@ -3,7 +3,7 @@ id: Malice
 name: Malice CadBoard
 type: shield
 requires:
-  - [Nice_Nano_V2]
+  - [nice_nano_v2]
 exposes:
   -GPIO
 features:
