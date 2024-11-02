@@ -1,6 +1,6 @@
 if SHIELD_MALICE
 
-config ZMK_KEYBAORDNAME
+config ZMK_KEYBOARDNAME
     default "Malice"
 
 endif
