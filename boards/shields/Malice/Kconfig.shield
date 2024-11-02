@@ -1,0 +1,2 @@
+config SHIELD_MALICE
+    def_bool $ (shiields_list_contains, tubetest)
