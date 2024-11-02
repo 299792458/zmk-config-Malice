@@ -1,0 +1,10 @@
+file_format: "1"
+id: Malice
+name: Malice
+type: shield
+requires:
+  - Nice_Nano_V2
+exposes:
+  -GPIO
+features:
+  - keys
