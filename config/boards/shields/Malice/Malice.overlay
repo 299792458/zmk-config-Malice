@@ -13,12 +13,11 @@
         compatible = "zmk,physical-layout";
         display-name = "Default Layout";
         transform = <&default_transform>;
-        kscan = <&kscan0>;
     };
 
     kscan0: kscan {
         compatible = "zmk,kscan-gpio-matrix";
-        diode-direction = "row2col";
+        diode-direction = "col2row";
         wakeup-source;
 
         col-gpios
@@ -49,7 +48,7 @@
             ;
     };
 
-    default_transform: keymap_transform_0 {
+    default_transform: keymap_transform0 {
         compatible = "zmk,matrix-transform";
         columns = <9>; // Length of the "col-gpios" array
         rows = <12>; // Length of the "row-gpios" array

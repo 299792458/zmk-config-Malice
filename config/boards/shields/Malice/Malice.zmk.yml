@@ -2,9 +2,5 @@ file_format: "1"
 id: Malice
 name: Malice CadBoard
 type: shield
-requires:
-  - [nice_nano_v2]
-exposes:
-  - [GPIO]
 features:
   - keys
