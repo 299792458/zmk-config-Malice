@@ -20,7 +20,7 @@
                 &kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A
                 &kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A
                 &kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&kp A
-                &kp A	&kp A	&kp A	&kp A	&kp A	&kp A	&bootloader	&sys_reset	&out OUT_USB
+                &kp A	&kp A	&kp A	&kp A	&kp A	&out OUT_USB	&bootloader	&sys_reset	&kp A
             >;
         };
     };
