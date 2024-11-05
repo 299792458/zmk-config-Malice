@@ -19,5 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: m60
-    artifact-name: M60 Test
+    shield: Malice
+    artifact-name: Malice V59
