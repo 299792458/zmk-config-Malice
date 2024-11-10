@@ -20,4 +20,4 @@
 include:
   - board: nice_nano_v2
     shield: Malice
-    artifact-name: Malice V65
+    artifact-name: Malice V67
