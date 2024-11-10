@@ -19,5 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: Malice
-    artifact-name: Malice V59
+    shield: nibble
+    artifact-name: nibble
