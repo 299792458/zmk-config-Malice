@@ -20,7 +20,7 @@
                 &kp V	&kp C	&kp X	&kp Z	&kp LSHIFT	&kp KP_N3	&kp KP_N2	&kp KP_N1	&none
                 &kp B	&kp N	&kp M	&kp COMMA	&kp PERIOD	&kp RSHIFT	&kp UP	&kp FSLH	&kp END
                 &none	&kp KP_PLUS	&kp LALT	&kp LWIN	&kp LCTRL	&kp KP_N0	&kp KP_DOT	&kp KP_ENTER	&kp KP_MINUS
-                &kp SPACE	&kp RALT	&kp RWIN	&kp C_MENU	&kp RCTRL	&kp DOWN	&kp RIGHT_BRACKET	&kp LEFT	&none
+                &kp SPACE	&kp RALT	&kp RWIN	&kp C_MENU	&kp RCTRL	&kp DOWN	&kp RIGHT	&kp LEFT	&none
             >;
         };
     };
